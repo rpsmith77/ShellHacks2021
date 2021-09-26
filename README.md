@@ -11,7 +11,11 @@ The AI utilizes [Amazon's Lex](https://aws.amazon.com/lex/), which is uses "natu
 ![Prototype Gif](https://github.com/rpsmith77/ShellHacks2021/blob/main/Prototype/2021-09-25%2022-50-29_1_4.gif)
 ### Current Product
 ![Dude, Where's My Car Question](https://github.com/rpsmith77/ShellHacks2021/blob/main/Screenshots/MicrosoftTeams-image%20(1).png)
-
+![Alt](https://github.com/rpsmith77/ShellHacks2021/blob/main/Screenshots/MicrosoftTeams-image%20(4).png)
+![Alt](https://github.com/rpsmith77/ShellHacks2021/blob/main/Screenshots/MicrosoftTeams-image%20(3).png)
+![Alt](https://github.com/rpsmith77/ShellHacks2021/blob/main/Screenshots/MicrosoftTeams-image%20(5).png)
+![Alt](https://github.com/rpsmith77/ShellHacks2021/blob/main/Screenshots/MicrosoftTeams-image%20(6).png)
+![Alt](https://github.com/rpsmith77/ShellHacks2021/blob/main/Screenshots/MicrosoftTeams-image%20(7).png)
 
 # Created By
 Jairo Garciga - [LinkedIn](https://www.linkedin.com/in/jairo-garciga/) | [Github](https://github.com/Jgar157)
