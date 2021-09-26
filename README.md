@@ -8,9 +8,9 @@ The AI utilizes [Amazon's Lex](https://aws.amazon.com/lex/), which is uses "natu
 
 # Example
 ### Prototype of full developed bot
-![Alt](https://imgur.com/cZzA5ri)
+![Prototype Gif](https://github.com/rpsmith77/ShellHacks2021/blob/main/Prototype/2021-09-25%2022-50-29_1_4.gif)
 ### Current Product
-![Alt](https://imgur.com/PgzvFPu)
+![Dude, Where's My Car Question](https://github.com/rpsmith77/ShellHacks2021/blob/main/Screenshots/MicrosoftTeams-image%20(1).png)
 
 
 # Created By
