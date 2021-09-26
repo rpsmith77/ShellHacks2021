@@ -7,7 +7,7 @@ This project is designed to be an AI-Powered ChatBot that can interpret a custom
 The AI utilizes [Amazon's Lex](https://aws.amazon.com/lex/), which is uses "natural language understanding (NLU) to recognize the intent of the text." Lex then interacts with [AWS Lambda](https://aws.amazon.com/lambda/) which decides what to do with the users intent. If the intent isn't understood, it will ask for clarification. Lex will then respond by either asking for clarification or respond with the information the user asked for.
 
 # Demo
-Insert Video Here
+[![Demo Video Link](https://img.youtube.com/vi/https://youtu.be/F-xsTgJyZ-U/0.jpg)](https://youtu.be/F-xsTgJyZ-U)
 
 # Example
 ### Prototype of full developed bot
