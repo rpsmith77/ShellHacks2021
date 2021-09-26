@@ -18,8 +18,8 @@ The AI utilizes [Amazon's Lex](https://aws.amazon.com/lex/), which is uses "natu
 ![Alt](https://github.com/rpsmith77/ShellHacks2021/blob/main/Screenshots/MicrosoftTeams-image%20(7).png)
 
 # Created By
-Jairo Garciga - [LinkedIn](https://www.linkedin.com/in/jairo-garciga/) | [Github](https://github.com/Jgar157)
-Rachel Mathews - [LinkedIn](https://www.linkedin.com/in/rachelamatthews/) | [Github](https://github.com/RachelAiko)
+Jairo Garciga - [LinkedIn](https://www.linkedin.com/in/jairo-garciga/) | [Github](https://github.com/Jgar157)<br/>
+Rachel Mathews - [LinkedIn](https://www.linkedin.com/in/rachelamatthews/) | [Github](https://github.com/RachelAiko)<br/>
 Ryan Smith - [LinkedIn](https://www.linkedin.com/in/ryan--smith/)
 
 # Built With
